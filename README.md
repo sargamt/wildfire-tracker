@@ -17,3 +17,9 @@ A React website that visualizes wildfire occurrences using data from NASA's EONE
 1. Clone the repository
 2. Install dependencies
 3. Create a .env file in the root of the repo and add your Google Maps API key.
+
+## Acknowledgments
+Google Maps API
+NASA EONET API
+Iconify
+Traversy Media
