@@ -7,7 +7,7 @@ A React website that visualizes wildfire occurrences using data from NASA's EONE
 - **Map Visualization**: Interactive map using Google Maps API.
 - **Event Details**: Click on wildfire symbols to view details about the event's ID and Title (location)
 
-### Technologies Used
+## Technologies Used
 - React
 - Google Maps API
 - NASA EONET API
